@@ -1,3 +1,3 @@
-var app = require('./index.js');
+var app = require('../index.js');
 
 app.listen(process.env.PORT || 5000);
