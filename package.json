@@ -2,7 +2,7 @@
   "name": "express-git",
   "version": "0.0.0",
   "description": "Mountable Git file explorer",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "grunt test"
   },
