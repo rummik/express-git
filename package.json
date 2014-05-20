@@ -1,0 +1,29 @@
+{
+  "name": "express-git",
+  "version": "0.0.0",
+  "description": "Mountable Git file explorer",
+  "main": "app.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rummik/express-git.git"
+  },
+  "keywords": [
+    "git",
+    "express",
+    "gitweb",
+    "nodegit"
+  ],
+  "author": "rummik <k@9k1.us>",
+  "license": "MPL",
+  "bugs": {
+    "url": "https://github.com/rummik/express-git/issues"
+  },
+  "homepage": "https://github.com/rummik/express-git",
+  "dependencies": {
+    "express": "~4.2.0",
+    "nodegit": "~0.1.3"
+  }
+}
